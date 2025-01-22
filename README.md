@@ -1,4 +1,4 @@
-# .windsurfrules Sample
+# .windsurfrules 'v5'
 
 This repository contains custom instruction files (`.windsurfrules`) for Windsurf. 
 It's an optimized adaptation of [cursorrules](https://github.com/kinopeee/cursorrules) for Windsurf Cascade.

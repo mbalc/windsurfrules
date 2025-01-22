@@ -1,4 +1,4 @@
-# .windsurfrules サンプル
+# .windsurfrules 「v5」
 
 このリポジトリは、Windsurf用のカスタムインストラクション（`.windsurfrules`）を管理するためのものです。
 別リポジトリで公開している[cursorrules](https://github.com/kinopeee/cursorrules)をWindsurf Cascadeに最適化したものです。

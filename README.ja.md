@@ -1,7 +1,7 @@
 # .windsurfrules サンプル
 
 このリポジトリは、Windsurf用のカスタムインストラクション（`.windsurfrules`）を管理するためのものです。
-別リポジトリで公開している[cursorrules](https://github.com/kinopeeai/cursorrules)をWindsurf Cascadeに最適化したものです。
+別リポジトリで公開している[cursorrules](https://github.com/kinopeee/cursorrules)をWindsurf Cascadeに最適化したものです。
 
 ## 構成
 

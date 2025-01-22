@@ -13,7 +13,7 @@
 
 1. `.windsurfrules`ファイルをプロジェクトのルートディレクトリに保存します。
     - ウィンドウ右下の［windsurf - Settings］-［Set Workspace AI Rules］-［Edit Rules］を開いて、コピー＆ペーストでも大丈夫です。
-    細かい制御を行いたい場合、v5をご利用ください：[v5-ja/.windsurfrules](v5-ja/.windsurfrules)
+    - 細かい制御を行いたい場合、v5をご利用ください：[v5-ja/.windsurfrules](v5-ja/.windsurfrules)
     - Cascadeの分析力、自走力がアップすれば十分な場合、v1をご利用ください：[v1-ja/.windsurfrules](v1-ja/.windsurfrules)
 1. v5の技術スタック、APIバージョン管理、プロジェクト構成は記載例です。ご自身の環境に合わせてカスタマイズしてください。
     - Cascadeでの編集を推奨。

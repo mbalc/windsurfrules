@@ -19,7 +19,7 @@ Note: Testing has been conducted in specific environments and timeframes. Result
    - For standard implementation: [v1-en/.windsurfrules](v1-en/.windsurfrules)
 
 2. Customize the technical specifications in v5:
-   - Use Windsurf Cascade for editing
+   - Select the relevant part and press Cmd+i (or Ctrl+i) to open and edit.
    - Without reference files, update rules using language/framework-specific best practices
    - Update specifications as your project evolves
 

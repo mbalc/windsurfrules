@@ -11,6 +11,10 @@ The configuration contains specifications for tech stacks, API version managemen
 
 Note: Testing has been conducted in specific environments and timeframes. Results may vary across different use cases and environments. Consider these `.windsurfrules` as templates for your specific project requirements.
 
+## Changelog
+
+For the latest updates and feature additions, see the [Changelog](CHANGELOG.en.md).
+
 ## Usage
 
 1. Place the `.windsurfrules` file in your project's root directory

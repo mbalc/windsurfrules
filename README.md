@@ -17,7 +17,8 @@ For the latest updates and feature additions, see the [Changelog](CHANGELOG.en.m
 
 ## Usage
 
-1. Place the `.windsurfrules` file in your project's root directory
+1. Create an empty Markdown file in `.windsurf/rules` and paste the `.windsurfrules` file contents there.
+   The file convention is described [in Windsurf documentation](https://docs.windsurf.com/windsurf/cascade/memories#rules)
    - Alternatively, paste the contents via [Windsurf - Settings] > [Set Workspace AI Rules] > [Edit Rules]
    - For full configuration control: [v5-en/.windsurfrules](v5-en/.windsurfrules)
    - For standard implementation: [v1-en/.windsurfrules](v1-en/.windsurfrules)
